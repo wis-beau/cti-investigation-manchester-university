@@ -77,6 +77,6 @@ To gather, analyse, and present actionable threat intelligence by:
 ## 🚀 Author
 
 **Wis Beau** – Aspiring Cyber Threat Intelligence Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/marketingreach4biz/) *(replace with your real URL)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/marketingreach4biz/)  
 📬 Open to collaborations & feedback!
 
