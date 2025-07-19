@@ -1,2 +1,6 @@
 # cti-investigation-manchester-university
-CTI Investigation Manchester University Case Study
+reconnaissance
+threat-actor-profile
+attack-simulation
+slides
+docs
